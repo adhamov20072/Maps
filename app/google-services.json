@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109446928831",
+    "project_id": "maps-368516",
+    "storage_bucket": "maps-368516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109446928831:android:b4440b797e990b05cc290a",
+        "android_client_info": {
+          "package_name": "com.aimardon.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109446928831-pbhaib38bmlah2qdjs74nl82fi615oo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxTw9uJnsEzWdSSVSj9XB6fUj2i-Ai8fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109446928831-pbhaib38bmlah2qdjs74nl82fi615oo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
